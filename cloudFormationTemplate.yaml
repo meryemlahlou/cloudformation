@@ -73,3 +73,4 @@ Resources:
       Handler: index.lambda_handler
       Role: !GetAtt MyLambdaRole.Arn
       Runtime: python3.8
+#####
